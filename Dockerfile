@@ -1,3 +1,3 @@
 FROM websphere-liberty:latest
 
-COPY WelcomeProject.war /dropins/RemRep.war
+COPY RemRep.war /dropins/RemRep.war
